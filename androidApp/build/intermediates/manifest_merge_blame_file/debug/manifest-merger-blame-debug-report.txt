@@ -19,22 +19,23 @@
 14        android:debuggable="true"
 15        android:supportsRtl="true"
 15-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:6:13-39
-16        android:theme="@style/AppTheme" >
-16-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:7:13-44
-17        <activity android:name="kg.damir.kmm.androidApp.MainActivity" >
-17-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:8:9-14:20
-17-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:8:19-47
-18            <intent-filter>
-18-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:9:13-13:29
-19                <action android:name="android.intent.action.MAIN" />
-19-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:10:17-68
-19-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:10:25-66
-20
-21                <category android:name="android.intent.category.LAUNCHER" />
-21-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:12:17-76
-21-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:12:27-74
-22            </intent-filter>
-23        </activity>
-24    </application>
-25
-26</manifest>
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:7:13-44
+18        <activity android:name="kg.damir.kmm.androidApp.MainActivity" >
+18-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:8:9-14:20
+18-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:8:19-47
+19            <intent-filter>
+19-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:9:13-13:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:10:17-68
+20-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:10:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:12:17-76
+22-->C:\Users\Admn\AndroidStudioProjects\Kmm2\androidApp\src\main\AndroidManifest.xml:12:27-74
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>
